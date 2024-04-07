@@ -1,6 +1,5 @@
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=appveyor&logoColor=white"/></a>
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=appveyor&logoColor=white"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Alby-FFDF6F?style=for-the-badge&logo=appveyor&logoColor=white"/></a>
 ### Hi there 👋
 
 <!--
