@@ -11,8 +11,7 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
-
-### Hi there 👋
+👋🔭🌱👯🤔✨💬📫😄⚡
 
 <!--
 **insang89/insang89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
