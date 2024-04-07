@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=insang89&color=green)
+
 <div align=center>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=appveyor&logoColor=white"/></a>
   <br>
@@ -16,5 +18,3 @@
 
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=insang89&show_icons=true&theme=gruvbox_light)
-
-![](https://komarev.com/ghpvc/?username=insang89&color=green)
